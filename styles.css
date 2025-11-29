@@ -1,0 +1,14 @@
+h1 {
+  color: violet;
+  text-align: center;
+  font-weight: 100;
+}
+button {
+  background-color: black;
+  color: white;
+}
+
+p {
+  color: blueviolet;
+  font-weight: bold;
+}
